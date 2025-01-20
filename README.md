@@ -9,12 +9,12 @@
 <img src="https://komarev.com/ghpvc/?username=jayni07&style=flat-square&color=blue" alt=""/>
 
 ### 👩‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a passionate Software Engineer and currently is exploring frontend and backend for building robust web applications.
+I am an aspiring Cybersecurity Specialist from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m diving deep into Cybersecurity, learning about threat analysis and network security. 
 
-- :seedling: Exploring Web3 and AI.
+- :seedling: Exploring the intersection of Cybersecurity and AI, focusing on innovative solutions to modern security challenges.
 
-- :zap: In my free time, I solve problems on Leetcode.
+- :zap: In my free time, I enhance my skills by participating in Capture The Flag (CTF) challenges and exploring cybersecurity labs.
 
 - :mailbox:How to reach me: jaynijoshi07@gmail.com
 <!--
