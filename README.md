@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me :
 I am an aspiring Cybersecurity Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m diving deep into Cybersecurity, learning about threat analysis and network security. 
+- :telescope: I’m diving deep into Cybersecurity. 
 
 - :seedling: Exploring the intersection of Cybersecurity and AI, focusing on innovative solutions to modern security challenges.
 
